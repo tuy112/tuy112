@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jstol's%20Github&fontSize=90)
-### Hi Friends~~ 👋
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jstol's%20Github&fontSize=80)
+### Hi Friends~~ 🔭 I’m currently working on ... 👋
 
 <!--
 **tuy112/tuy112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+
   #### :pencil2: Study log
  
   <br/>
