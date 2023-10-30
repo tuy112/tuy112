@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jstol's%20Github&fontSize=80)
+
 ### Hi Friends~~ 🔭 I’m currently working on ... 👋
 
 <!--
